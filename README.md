@@ -1,16 +1,49 @@
-## Hi there 👋
+<img src="https://raw.githubusercontent.com/postdevs/postdevs/main/banner.png" alt="David Bienvenue - Data Analyst"/>
 
-<!--
-**postdevs/postdevs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# David Bienvenue
+**Data Analyst** | 10+ Years Pipeline Engineering → Data Infrastructure & Analytics
 
-Here are some ideas to get you started:
+Transitioning production pipeline expertise into data analytics roles.  
+Building end-to-end data systems with Python, SQL, and Azure.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📍 Utrecht, Netherlands | 🌍 Open to remote roles  
+📧 davidabienvenue@gmail.com | 💼 [LinkedIn](https://linkedin.com/in/davidabienvenue)
+
+---
+
+## 🛠️ Technical Stack
+
+**Data & Analytics:** Python (Pandas, NumPy, Scikit-learn), SQL, Azure, Power BI  
+**Infrastructure:** ETL/ELT pipeline design, workflow automation, data modeling  
+**NLP & Analysis:** VADER Sentiment, fastText, aspect-level decomposition  
+**Collaboration:** Stakeholder translation, cross-functional coordination
+
+---
+
+## 📂 Portfolio Projects
+
+### 🏨 Tourism Sentiment Analysis: Multi-City Hospitality Infrastructure *(Complete)*
+Architected Bronze/Silver/Gold ETL pipeline analyzing 60K+ reviews to quantify tourism's impact on service quality. Led infrastructure design + completed NYC hotels analysis revealing elevator failures as #1 complaint driver contaminating multiple satisfaction dimensions.
+
+**Tech:** Python, Pandas, VADER, fastText, Jupyter, Git, Parquet  
+**[View Project →](https://github.com/TinaKgn/tourism_data_project)**
+
+### 🔧 Azure Data Pipeline: Google Play Sentiment Analysis *(Launching Feb 2026)*
+End-to-end ETL pipeline with automated orchestration and stakeholder-facing dashboards
+
+**Tech:** Azure Data Factory, Python, SQL, Power BI
+
+---
+
+## 🎯 What I'm Building
+
+Transitioning 10 years of production pipeline engineering into analytics infrastructure roles. Focused on systems that enable self-service insights, not just one-off analyses.
+
+**Currently seeking:** Remote Data Analyst or Analytics Engineer roles at health, education, and technology companies
+
+---
+
+## 📫 Let's Connect
+
+Open to conversations about data analytics, workflow automation, or pipeline engineering.  
+Connect with me on [LinkedIn](https://linkedin.com/in/davidabienvenue).
