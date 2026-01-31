@@ -4,8 +4,7 @@
 Transitioning production pipeline expertise into data analytics roles.  
 Building end-to-end data systems with Python, SQL, and Azure.
 
-📍 Utrecht, Netherlands | 🌍 Open to remote roles  
-💼 [LinkedIn](https://linkedin.com/in/davidabienvenue)
+📍 Utrecht, Netherlands | 💼 [LinkedIn](https://linkedin.com/in/davidabienvenue) | 🌍 Open to remote roles 
 
 ---
 
