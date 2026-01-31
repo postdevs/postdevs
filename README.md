@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/postdevs/postdevs/main/banner.png" alt="David Bienvenue - Data Analyst"/>
+<img src="https://raw.githubusercontent.com/postdevs/postdevs/assets/banner.png" alt="David Bienvenue - Data Analyst"/>
 
 # David Bienvenue
 **Data Analyst** | 10+ Years Pipeline Engineering → Data Infrastructure & Analytics
