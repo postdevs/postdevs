@@ -11,8 +11,11 @@ Building end-to-end data systems with Python, SQL, and Azure.
 ## 🛠️ Technical Stack
 
 **Data & Analytics:** Python (Pandas, NumPy, Scikit-learn), SQL, Azure, Power BI
+
 **Infrastructure:** ETL/ELT pipeline design, workflow automation, data modeling
+
 **NLP & Analysis:** VADER Sentiment, fastText, aspect-level decomposition
+
 **Collaboration:** Stakeholder translation, cross-functional coordination
 
 ---
@@ -46,4 +49,5 @@ Transitioning 10 years of production pipeline engineering into analytics infrast
 ## 📫 Let's Connect
 
 Open to conversations about data analytics, workflow automation, or pipeline engineering.
+
 Connect with me on [LinkedIn](https://linkedin.com/in/davidabienvenue).
