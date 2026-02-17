@@ -23,7 +23,9 @@ Building end-to-end data systems with Python, SQL, and Azure.
 Architected Bronze/Silver/Gold ETL pipeline analyzing 60K+ reviews to quantify tourism's impact on service quality. Led infrastructure design + completed NYC hotels analysis revealing how standard averaging destroys operational insights—volume correlates with complaint severity (not frequency), VALUE complaints reflect pricing expectations (not service failures), and keyword lift identifies diagnostic failures over prevalent mentions.
 
 **Tech:** Python, Pandas, VADER, fastText, Jupyter, Git, Parquet
+
 **[View Project →](https://github.com/TinaKgn/tourism_data_project)**
+
 **[Key Findings →](https://github.com/TinaKgn/tourism_data_project/blob/main/notebooks/users/david/shared/KEY_FINDINGS.md)**
 
 ### 🔧 Azure Data Pipeline: Google Play Sentiment Analysis *(Launching Feb 2026)*
