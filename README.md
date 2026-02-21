@@ -52,4 +52,5 @@ Transitioning 10 years of production pipeline engineering into analytics infrast
 ## 📫 Let's Connect
 
 Open to conversations about data analytics, workflow automation, or pipeline engineering.
+
 Connect with me on [LinkedIn](https://linkedin.com/in/davidabienvenue).
